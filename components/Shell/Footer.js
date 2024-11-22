@@ -7,12 +7,8 @@ export function Footer({ children: links, landing }) {
   const logo = (
     <Link href="/">
       <svg width="168px" height="30px" viewBox="0 0 168 30" version="1.1" xmlns="http://www.w3.org/2000/svg" >
-                    <text id="Akatosh" fontFamily="Inter-Regular_Medium, Inter" fontSize="24.4660194" fontWeight="400" fill="var(--dark)">
+                    <text id="Markdown template" fontFamily="Inter-Regular_Medium, Inter" fontSize="24.4660194" fontWeight="400" fill="var(--dark)">
                         <tspan x="0" y="24">SITENAME</tspan>
-                    </text>
-                    <rect id="Rectangle" fill="#46AAFE" x="130" y="0" width="35" height="30" rx="5.70873786"></rect>
-                    <text id="Docs" fontFamily="Inter-Regular_Medium, Inter" fontSize="24.4660194" fontWeight="400" fill="#FFFFFF">
-                        <tspan x="136" y="24">AI</tspan>
                     </text>
             </svg>
     </Link>

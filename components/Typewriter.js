@@ -85,7 +85,7 @@ function Type({ text, onEnd }) {
 }
 
 const text =
-  'Akatosh is a fast and felxible geoscience data API.';
+  'Texty text goes text text text';
 
 export function Typewriter() {
   const [state, setState] = React.useState(0);

@@ -14,7 +14,7 @@ const schema = {
   functions
 };
 
-const INITIAL_CODE = `import akatosh as aka
+const INITIAL_CODE = `
 import pandas as pd
 import numpy as np
 import geopandas as gpd
